@@ -118,4 +118,4 @@ $translug->translug('如何安装 Laravel');
 //how-to-install-the-laravel
 ```
 
-
+测试GitHub.com
